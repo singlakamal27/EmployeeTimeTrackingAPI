@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IVZU+m0UG+31XLDbGKqy1+Iz2oTLTPu8qubHEK4ErME=",
+  "Source": "EmployeeTimeTrackingAPI",
+  "BasePath": "_content/EmployeeTimeTrackingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
