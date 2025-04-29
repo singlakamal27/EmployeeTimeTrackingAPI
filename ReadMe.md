@@ -23,7 +23,7 @@ A minimal production style .NET 8 Web API for managing employees, locations, cat
 - Optional: `curl`, Postman, or Swagger UI (http://localhost:5096/swagger)
 
 # Run Locally
-- git clone https://singlakamal@dev.azure.com/singlakamal/EmployeeTimeTrackingAPI/_git/EmployeeTimeTrackingAPI
+- git clone https://github.com/singlakamal27/EmployeeTimeTrackingAPI.git
 - cd EmployeeTimeTrackingAPI
 - dotnet build
 - dotnet run
